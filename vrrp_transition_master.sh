@@ -10,7 +10,7 @@ interface=eth5
 group=100
 
 #use different values for primary and secondary routers.
-#inactive on primary should be higher than active of seconary.
+#inactive on primary should be higher than active of secondary.
 #eg) Primary active = 200,  Secondary active = 100
 #    Primary inactive= 150, Secondary inactive = 50
 activepriority=200
